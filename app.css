@@ -1,0 +1,87 @@
+
+aside{
+    border-radius: 4px;
+    margin: 4px;
+    width: auto;
+    position: relative;
+}
+
+article{
+
+    margin: 0 210px;
+    padding-left: 20px;
+    padding-bottom: 178px;
+}
+
+header{
+    border-radius: 4px;
+    margin: 4px;
+    background-color: dodgerblue;
+    color: #ffffff;
+    padding: 15px;
+
+}
+
+nav{
+    width: 200px;
+    float: left
+}
+
+.menuItem {
+    width: 155px;
+    background-color: darkgray;
+    border: 1px solid #d14836;
+    border-radius: 40px;
+    color: black;
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.menuList li:hover {
+    background: deeppink;
+    transform: scale(1.20);
+}
+
+aside{
+    border-radius: 4px;
+    background-color: #4CAF50;
+    padding: 10px;
+    margin: 12px;
+    height: 650px;
+    width: 180px;
+    top: 205px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+
+}
+.bulbtext{
+    color: white;
+}
+
+h4{
+    color: red;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+}
+
+h1 image {
+    text-indent: 50px;
+    float: left
+}
+
+
+footer {
+    border-radius: 4px;
+    background-color: darkseagreen;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
